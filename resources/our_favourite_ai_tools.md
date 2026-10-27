@@ -44,6 +44,20 @@ Developers can also access extensive guides, tutorials, and community support th
 
 ---
 
+## Scalekit
+
+**Scalekit** is an AI agent integration platform. Each of your users connects their own Gmail, Slack, Salesforce, GitHub or other accounts once; Scalekit stores and refreshes the OAuth tokens and your agent calls prebuilt tools as that user, across 600+ connectors and 35,000+ tools, without ever handling credentials.  
+[Explore Scalekit](https://scalekit.com)
+
+Tools can be called from the Python and Node.js SDKs, through adapters for LangChain, LangGraph, OpenAI Agents SDK and CrewAI, or from any MCP client via Scalekit's hosted MCP server. Which tools an agent can see is scoped per agent role, and every call is logged with the agent, user and tool.  
+[Read the Documentation](https://docs.scalekit.com/agentkit/overview/)
+
+**Getting Started with Scalekit:**  
+- [AgentKit Quickstart](https://docs.scalekit.com/agentkit/quickstart/)  
+- [Python SDK on GitHub](https://github.com/scalekit-inc/scalekit-sdk-python)
+
+---
+
 # Low-Code/No-Code AI Tools  
 *Tools that make AI more accessible to non-technical users through simplified interfaces.*
 
